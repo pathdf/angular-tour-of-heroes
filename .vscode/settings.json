@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'Consolas'",
+    "editor.tabSize": 2,
+"workbench.colorTheme": "Quiet Light",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "editor.fontSize": 12,
+    "editor.fontWeight": "bold",
+    "editor.wordWrap": "on",
+		"window.zoomLevel": 0,
+"editor.detectIndentation": false,
+"editor.insertSpaces": false,
+}
